@@ -19,7 +19,7 @@ html_code = """
       <thead>
         <tr>
           <th>Mecz</th>
-          <th>PKT</th>
+          <th>PKT Linia[9.5]</th>
         </tr>
       </thead>
       <tbody>
