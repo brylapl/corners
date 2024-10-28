@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Ustawienia tytułu aplikacji
-st.title("Tabela Meczów")
+st.title("28.10.2024")
 
 # HTML do wyświetlenia
 html_code = """
