@@ -29,6 +29,9 @@ html_code = """
     </tr>
     </thead>
     <tbody>
+      <tr>
+    <td colspan="3" class="fw-bold display-1">DZIŚ</td>
+</tr>
     <tr>
         <td>28.10.2024</td>
         <td>Malmo FF - IFK Goteborg</td>
@@ -124,6 +127,9 @@ html_code = """
         <td>Istanbul Basaksehir - Eyupspor</td>
         <td><span class="badge bg-danger">-8.54</span></td>
     </tr>
+      <tr>
+    <td colspan="3" class="fw-bold display-1">JUTRO</td>
+</tr>
     <tr>
         <td>29.10.2024</td>
         <td>Cagliari - Bologna</td>
@@ -269,8 +275,6 @@ html_code = """
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
 </html>
-
-
 """
 
 # Wyświetlenie kodu HTML w Streamlit
