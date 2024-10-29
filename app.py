@@ -28,11 +28,7 @@ html_code = """
         <th>PKT</th>
     </tr>
     </thead>
-    <tbody>
-      
-        
-        
-      
+    <tbody>    
     <tr>
         <td>29.10.2024</td>
         <td>Cagliari - Bologna</td>
