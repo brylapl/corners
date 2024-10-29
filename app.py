@@ -32,9 +32,7 @@ html_code = """
       
         
         
-      <tr>
-    <td colspan="3" class="fw-bold display-1">DZIŚ</td>
-</tr>
+      
     <tr>
         <td>29.10.2024</td>
         <td>Cagliari - Bologna</td>
