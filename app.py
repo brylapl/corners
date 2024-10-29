@@ -29,45 +29,7 @@ html_code = """
     </tr>
     </thead>
     <tbody>
-      <tr>
-    <td colspan="3" class="fw-bold display-1">DZIŚ</td>
-</tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Malmo FF - IFK Goteborg</td>
-        <td><span class="badge bg-success">10.00</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Djurgarden - Västerås SK FK</td>
-        <td><span class="badge bg-success">7.07</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Galatasaray - Besiktas</td>
-        <td><span class="badge bg-success">6.13</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Farul Constanta - CS U Craiova</td>
-        <td><span class="badge bg-success">4.91</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Bodo/Glimt - Rosenborg</td>
-        <td><span class="badge bg-success">4.58</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>GKS Tychy - Znicz Pruszków</td>
-        <td><span class="badge bg-success">4.41</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Ituano - Santos</td>
-        <td><span class="badge bg-success">4.39</span></td>
-    </tr>
-    <tr>
+      
         <td>28.10.2024</td>
         <td>Randers FC - FC Nordsjaelland</td>
         <td><span class="badge bg-success">3.03</span></td>
@@ -112,23 +74,8 @@ html_code = """
         <td>IK Oddevold - Skövde AIK</td>
         <td><span class="badge bg-danger">-2.81</span></td>
     </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>FC Botosani - Universitatea Cluj</td>
-        <td><span class="badge bg-danger">-2.96</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>CD Mafra - UD Leiria</td>
-        <td><span class="badge bg-danger">-5.49</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Istanbul Basaksehir - Eyupspor</td>
-        <td><span class="badge bg-danger">-8.54</span></td>
-    </tr>
       <tr>
-    <td colspan="3" class="fw-bold display-1">JUTRO</td>
+    <td colspan="3" class="fw-bold display-1">DZIŚ</td>
 </tr>
     <tr>
         <td>29.10.2024</td>
