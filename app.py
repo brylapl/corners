@@ -30,50 +30,8 @@ html_code = """
     </thead>
     <tbody>
       
-        <td>28.10.2024</td>
-        <td>Randers FC - FC Nordsjaelland</td>
-        <td><span class="badge bg-success">3.03</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Coritiba - CRB</td>
-        <td><span class="badge bg-success">1.98</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Mallorca - Athletic Bilbao</td>
-        <td><span class="badge bg-success">1.33</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Cuiaba - Corinthians</td>
-        <td><span class="badge bg-success">1.25</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Blackpool - Wigan</td>
-        <td><span class="badge bg-success">0.18</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>AVS - FC Porto</td>
-        <td><span class="badge bg-danger">-1.75</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>AVS - FC Porto</td>
-        <td><span class="badge bg-danger">-1.75</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>Racing Ferrol - Tenerife</td>
-        <td><span class="badge bg-danger">-2.24</span></td>
-    </tr>
-    <tr>
-        <td>28.10.2024</td>
-        <td>IK Oddevold - Skövde AIK</td>
-        <td><span class="badge bg-danger">-2.81</span></td>
-    </tr>
+        
+        
       <tr>
     <td colspan="3" class="fw-bold display-1">DZIŚ</td>
 </tr>
