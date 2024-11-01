@@ -1,16 +1,15 @@
 import streamlit as st
 
-# Funkcja do przekierowania
-def redirect_to(url):
-    # Kod HTML i JavaScript do wykonania przekierowania
-    html = f"""
+# Tytuł aplikacji
+
+# Adres URL do otwarcia
+url = "https://brylapl.github.io/corner/"
+
+# Tworzenie przycisku, który otworzy nowy adres w nowym oknie
+if st.button('Otwórz nowy adres'):
+    js = f"""
     <script>
-        window.location.href = "{url}";
+        window.open('{url}', '_blank');
     </script>
     """
-    # Wyświetlenie komponentu HTML w Streamlit
-    st.components.v1.html(html)
-
-# Przykładowe użycie - przekierowanie do innego adresu
-if st.button('Przekierowanie'):
-    redirect_to('https://brylapl.github.io/corner/')   # Podaj adres URL, na który chcesz przekierować
+    st.markdown(js, unsafe_allow_html=True)
